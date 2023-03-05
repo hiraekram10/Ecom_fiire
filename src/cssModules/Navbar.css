@@ -1,0 +1,25 @@
+
+.cart{
+    text-decoration: none;
+}
+.cart-icon-css {
+    color: rgb(255, 255, 255);
+    background-color: rgba(25,144,167,255);
+    border-radius: 17px;
+  
+   
+   
+}
+.profile-icon{
+    width: 30px;
+}
+.stylye-navbar:hover{
+   
+  background-color: rgba(25,144,167,255) ;
+    cursor: pointer;
+}
+/* .nav_style{
+    display: flex;
+    justify-content: flex-end;
+} */
+
