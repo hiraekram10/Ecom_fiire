@@ -2,7 +2,8 @@ import React from 'react'
 
 const AddProduct = () => {
   return (
-    <div>Add</div>
+    //day three
+    <div></div>
   )
 }
 
