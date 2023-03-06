@@ -109,6 +109,9 @@ const Navbar = () => {
               <li className="nav-item ">
                 <NavLink className="nav-link active" aria-current="page" to='/home'>Home</NavLink>
               </li>
+              <li className="nav-item ">
+                <NavLink className="nav-link active  " to='/sellproduct'>Sell</NavLink>
+              </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to='/cart'>
                   <div className="cart-btn">
